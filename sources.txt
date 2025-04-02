@@ -1,0 +1,2 @@
+rss https://www.aitrends.com/feed/
+atom https://simonwillison.net/atom/everything/
